@@ -5,7 +5,7 @@
 ---
 
 <div align='center'>
-   <h3>twttr</h3>
+   <h3>atebitsy</h3>
    <p>
       The power of Themes, all in your hand.
       <br />
