@@ -11,8 +11,7 @@
       <br />
       <b>Twitter Theme Modification</b>
    </p>
-   
-      <a href='https://github.com/atebitsy/atebitsy/releases/latest/'>Download</a>
+       <a href='https://github.com/atebitsy/atebitsy/releases/latest/'>Download</a>
 </div>
 
 ---
